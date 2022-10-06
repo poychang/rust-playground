@@ -8,7 +8,9 @@ Rust 官方網站 [www.rust-lang.org](https://www.rust-lang.org/)
 
 ## 更新 Rust
 
-`rustup update`
+Rust 語言與編譯器有一個為其六週的發佈循環，並且每兩到三年 Rust 團隊會產出一個新的 Rust 版號（edition），例如 Rust 2015 、 Rust 2018 與 Rust 2021。
+
+若要更新 Rust 環境，請使用 `rustup update` 指令。
 
 ## cargo 基本指令
 
@@ -21,3 +23,7 @@ Rust 官方網站 [www.rust-lang.org](https://www.rust-lang.org/)
 - `cargo doc` 能為您的專案產生技術文件
 - `cargo publish` 能將函式庫發佈到 crates.io
 
+## 學習資源
+
+- [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Rust 程式設計語言](https://rust-lang.tw/book-tw/)（為 The Rust Programming Language 的中譯版本）
